@@ -6,4 +6,5 @@
 .exe
 node_modules/
 *.o
-main
+rod_cut_a
+rod_cut_b
